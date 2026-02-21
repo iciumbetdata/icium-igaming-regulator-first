@@ -1,0 +1,37 @@
+{
+  "name": "icium-igaming-registry",
+  "version": "0.1.0",
+  "description": "Regulator-first US iCasino verification data + tiny helper functions (no affiliate links).",
+  "keywords": [
+    "igaming",
+    "casino",
+    "regulation",
+    "compliance",
+    "dataset",
+    "consumer-protection"
+  ],
+  "homepage": "https://www.icium.org/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOUR_GITHUB/icium-igaming-registry.git"
+  },
+  "license": "MIT",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "icium-igaming": "dist/cli.js"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "prepublishOnly": "npm run build"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}

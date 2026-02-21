@@ -1,0 +1,72 @@
+[
+  {
+    "state_code": "NJ",
+    "state_name": "New Jersey",
+    "igaming_legal": "yes",
+    "regulator_name": "New Jersey Division of Gaming Enforcement (DGE)",
+    "regulator_site": "https://www.nj.gov/oag/ge/",
+    "official_verification_or_operator_list_url": "https://www.nj.gov/oag/ge/docs/InternetGaming/internetgamingpermitholders.pdf",
+    "notes": "NJ publishes Internet Gaming Permit Holders (permit holders, not necessarily every brand/skin).",
+    "last_verified": "2026-02-21"
+  },
+  {
+    "state_code": "PA",
+    "state_name": "Pennsylvania",
+    "igaming_legal": "yes",
+    "regulator_name": "Pennsylvania Gaming Control Board (PGCB)",
+    "regulator_site": "https://gamingcontrolboard.pa.gov/",
+    "official_verification_or_operator_list_url": "https://gamingcontrolboard.pa.gov/interactive-gaming-operators",
+    "notes": "PGCB provides an official interactive gaming operators page for verifying regulated sites.",
+    "last_verified": "2026-02-21"
+  },
+  {
+    "state_code": "MI",
+    "state_name": "Michigan",
+    "igaming_legal": "yes",
+    "regulator_name": "Michigan Gaming Control Board (MGCB)",
+    "regulator_site": "https://www.michigan.gov/mgcb",
+    "official_verification_or_operator_list_url": "https://www.michigan.gov/mgcb/consumer/online-gambling",
+    "notes": "MGCB's consumer page lists licensed internet gaming operators and guidance on legal vs illegal gaming.",
+    "last_verified": "2026-02-21"
+  },
+  {
+    "state_code": "WV",
+    "state_name": "West Virginia",
+    "igaming_legal": "yes",
+    "regulator_name": "West Virginia Lottery",
+    "regulator_site": "https://wvlottery.com/",
+    "official_verification_or_operator_list_url": "https://wvlottery.com/licensing/igaming",
+    "notes": "WV Lottery publishes iGaming license lists (PDFs); this project records operators from the public license list.",
+    "last_verified": "2026-02-21"
+  },
+  {
+    "state_code": "CT",
+    "state_name": "Connecticut",
+    "igaming_legal": "yes",
+    "regulator_name": "Connecticut Department of Consumer Protection (Gaming Division)",
+    "regulator_site": "https://portal.ct.gov/dcp",
+    "official_verification_or_operator_list_url": "https://portal.ct.gov/dcp/news-releases-from-the-department-of-consumer-protection/2025-news-releases/dcp-issues-summary-suspension-of-high5games-license-for-conducting-illegal-gaming-activity",
+    "notes": "CT states there are two legal iCasino platforms: DraftKings/Foxwoods and FanDuel/Mohegan Sun (per DCP).",
+    "last_verified": "2026-02-21"
+  },
+  {
+    "state_code": "DE",
+    "state_name": "Delaware",
+    "igaming_legal": "yes",
+    "regulator_name": "Delaware Lottery",
+    "regulator_site": "https://www.delottery.com/",
+    "official_verification_or_operator_list_url": "https://www.delottery.com/More/iGaming",
+    "notes": "Delaware Lottery iGaming page points to the state's authorized casino platforms.",
+    "last_verified": "2026-02-21"
+  },
+  {
+    "state_code": "RI",
+    "state_name": "Rhode Island",
+    "igaming_legal": "yes",
+    "regulator_name": "Rhode Island Lottery",
+    "regulator_site": "https://www.rilot.com/",
+    "official_verification_or_operator_list_url": "https://www.rilot.com/en-us/player-zone/faqs.html",
+    "notes": "RI Lottery FAQ references iGaming as a casino product available via Bally\u2019s and its apps/websites.",
+    "last_verified": "2026-02-21"
+  }
+]

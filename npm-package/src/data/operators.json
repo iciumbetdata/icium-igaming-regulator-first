@@ -1,0 +1,146 @@
+[
+  {
+    "state_code": "NJ",
+    "operator_name": "Marina District Development Company, LLC d/b/a Borgata Hotel Casino & Spa",
+    "operator_type": "Internet Gaming Permit Holder",
+    "official_source_url": "https://www.nj.gov/oag/ge/docs/InternetGaming/internetgamingpermitholders.pdf",
+    "notes": "Permit NJIGP 25-001.",
+    "last_verified": "2026-02-21"
+  },
+  {
+    "state_code": "NJ",
+    "operator_name": "Golden Nugget Atlantic City, LLC",
+    "operator_type": "Internet Gaming Permit Holder",
+    "official_source_url": "https://www.nj.gov/oag/ge/docs/InternetGaming/internetgamingpermitholders.pdf",
+    "notes": "Permit NJIGP 25-002.",
+    "last_verified": "2026-02-21"
+  },
+  {
+    "state_code": "NJ",
+    "operator_name": "Caesars Interactive Entertainment New Jersey, LLC (affiliate of Boardwalk Regency Corp.)",
+    "operator_type": "Internet Gaming Permit Holder",
+    "official_source_url": "https://www.nj.gov/oag/ge/docs/InternetGaming/internetgamingpermitholders.pdf",
+    "notes": "Permit NJIGP 25-007.",
+    "last_verified": "2026-02-21"
+  },
+  {
+    "state_code": "NJ",
+    "operator_name": "DGMB Casino, LLC",
+    "operator_type": "Internet Gaming Permit Holder",
+    "official_source_url": "https://www.nj.gov/oag/ge/docs/InternetGaming/internetgamingpermitholders.pdf",
+    "notes": "Permit NJIGP 25-008.",
+    "last_verified": "2026-02-21"
+  },
+  {
+    "state_code": "NJ",
+    "operator_name": "AC Ocean Walk",
+    "operator_type": "Internet Gaming Permit Holder",
+    "official_source_url": "https://www.nj.gov/oag/ge/docs/InternetGaming/internetgamingpermitholders.pdf",
+    "notes": "Permit NJIGP 25-009.",
+    "last_verified": "2026-02-21"
+  },
+  {
+    "state_code": "NJ",
+    "operator_name": "Hard Rock Boardwalk 1000, LLC d/b/a Hard Rock Hotel Casino",
+    "operator_type": "Internet Gaming Permit Holder",
+    "official_source_url": "https://www.nj.gov/oag/ge/docs/InternetGaming/internetgamingpermitholders.pdf",
+    "notes": "Permit NJIGP 25-010.",
+    "last_verified": "2026-02-21"
+  },
+  {
+    "state_code": "NJ",
+    "operator_name": "Premier Atlantic City LLC d/b/a Bally Atlantic City",
+    "operator_type": "Internet Gaming Permit Holder",
+    "official_source_url": "https://www.nj.gov/oag/ge/docs/InternetGaming/internetgamingpermitholders.pdf",
+    "notes": "Permit NJIGP 25-011.",
+    "last_verified": "2026-02-21"
+  },
+  {
+    "state_code": "NJ",
+    "operator_name": "Caesars Interactive Entertainment New Jersey, LLC (affiliate of Tropicana Atlantic City Corp.)",
+    "operator_type": "Internet Gaming Permit Holder",
+    "official_source_url": "https://www.nj.gov/oag/ge/docs/InternetGaming/internetgamingpermitholders.pdf",
+    "notes": "Permit NJIGP 25-012.",
+    "last_verified": "2026-02-21"
+  },
+  {
+    "state_code": "NJ",
+    "operator_name": "Caesars Interactive Entertainment New Jersey, LLC (affiliate of Harrah\u2019s Atlantic City Operating Company, LLC)",
+    "operator_type": "Internet Gaming Permit Holder",
+    "official_source_url": "https://www.nj.gov/oag/ge/docs/InternetGaming/internetgamingpermitholders.pdf",
+    "notes": "Permit NJIGP 25-013.",
+    "last_verified": "2026-02-21"
+  },
+  {
+    "state_code": "PA",
+    "operator_name": "PGCB Interactive Gaming Operators",
+    "operator_type": "Verified Operator List",
+    "official_source_url": "https://gamingcontrolboard.pa.gov/interactive-gaming-operators",
+    "notes": "Regulator page lists legal interactive gaming brands/operators.",
+    "last_verified": "2026-02-21"
+  },
+  {
+    "state_code": "MI",
+    "operator_name": "MGCB Licensed Internet Gaming Operators",
+    "operator_type": "Verified Operator List",
+    "official_source_url": "https://www.michigan.gov/mgcb/consumer/online-gambling",
+    "notes": "MGCB consumer page lists legal internet gaming operators.",
+    "last_verified": "2026-02-21"
+  },
+  {
+    "state_code": "WV",
+    "operator_name": "WV Lottery iGaming License List",
+    "operator_type": "License List",
+    "official_source_url": "https://wvlottery.com/licensing/igaming",
+    "notes": "WV Lottery licensing hub links to public license list PDFs.",
+    "last_verified": "2026-02-21"
+  },
+  {
+    "state_code": "CT",
+    "operator_name": "DraftKings (Foxwoods)",
+    "operator_type": "Legal iCasino Platform",
+    "official_source_url": "https://portal.ct.gov/dcp/news-releases-from-the-department-of-consumer-protection/2025-news-releases/dcp-issues-summary-suspension-of-high5games-license-for-conducting-illegal-gaming-activity",
+    "notes": "DCP states DraftKings/Foxwoods is a legal iCasino platform.",
+    "last_verified": "2026-02-21"
+  },
+  {
+    "state_code": "CT",
+    "operator_name": "FanDuel (Mohegan Sun)",
+    "operator_type": "Legal iCasino Platform",
+    "official_source_url": "https://portal.ct.gov/dcp/news-releases-from-the-department-of-consumer-protection/2025-news-releases/dcp-issues-summary-suspension-of-high5games-license-for-conducting-illegal-gaming-activity",
+    "notes": "DCP states FanDuel/Mohegan Sun is a legal iCasino platform.",
+    "last_verified": "2026-02-21"
+  },
+  {
+    "state_code": "DE",
+    "operator_name": "Delaware Park (online)",
+    "operator_type": "Authorized Delaware Casino Platform",
+    "official_source_url": "https://www.delottery.com/More/iGaming",
+    "notes": "Listed under Delaware Lottery iGaming page.",
+    "last_verified": "2026-02-21"
+  },
+  {
+    "state_code": "DE",
+    "operator_name": "Bally\u2019s Dover (online)",
+    "operator_type": "Authorized Delaware Casino Platform",
+    "official_source_url": "https://www.delottery.com/More/iGaming",
+    "notes": "Listed under Delaware Lottery iGaming page.",
+    "last_verified": "2026-02-21"
+  },
+  {
+    "state_code": "DE",
+    "operator_name": "Harrington (online)",
+    "operator_type": "Authorized Delaware Casino Platform",
+    "official_source_url": "https://www.delottery.com/More/iGaming",
+    "notes": "Listed under Delaware Lottery iGaming page.",
+    "last_verified": "2026-02-21"
+  },
+  {
+    "state_code": "RI",
+    "operator_name": "Bally\u2019s (Rhode Island) iGaming",
+    "operator_type": "Legal iCasino Platform",
+    "official_source_url": "https://www.rilot.com/en-us/player-zone/faqs.html",
+    "notes": "RI Lottery FAQ references iGaming availability at Bally\u2019s and via apps/websites.",
+    "last_verified": "2026-02-21"
+  }
+]
